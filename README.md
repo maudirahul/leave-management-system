@@ -30,5 +30,4 @@ Admins can view all pending leave requests and approve or reject them.
 
 NOTE:- in this project the user and admin are mocked, there is no feature of register a new user. In backend/seed.js the mock users are created. 
 
-## Project Structure
 
